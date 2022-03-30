@@ -1,4 +1,4 @@
-# FRC Programming Resources
+# Carl's Guide to FRC Programming Resources
 
 ## Overview
 After years of posting to [Chief Delphi](https://www.chiefdelphi.com/) about different resources, I finally decided to post them all in one spot! How exciting! This hopefully give an overview of multiple different resources available. This is an actively growing list, so if you see something you think would be beneficial, send me a message on chief and I'll take a look! Please let me know if there is anything that seems out of date or inaccurate.
